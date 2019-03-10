@@ -5,6 +5,8 @@
 基本要求：Chrome+selemium+python3.7
 ### 1.1 安装依赖
 ```
+git clone https://github.com/webscrapingproject/weiboRobot.git
+cd weiboRobot
  pip install -r requirements.txt
 ```
 ### 1.2 用法
