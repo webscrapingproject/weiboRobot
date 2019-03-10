@@ -7,7 +7,7 @@
 ```
 git clone https://github.com/webscrapingproject/weiboRobot.git
 cd weiboRobot
- pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 ### 1.2 用法
 ```
